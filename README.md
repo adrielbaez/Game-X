@@ -5,6 +5,7 @@ Aplicación web desarrollada con stack mern. E-commerce de videojuegos de variad
 ## Trabajo realizado
 
 Una web app desarrollada en dos semanas, realizando dailies y meets durante todo el sprint, con la finalidad de poder lograr los objetivos requeridos del challenge para el bootcamp cursado en MindHub.
+
 Para poder ver el trabajo final realizado puedes ingresar a: https://game-x-arg.herokuapp.com/
 
 ## Construido con 🛠️
