@@ -1,4 +1,4 @@
-#**Game-X**
+# **Game-X**
 
 Aplicación web desarrollada con stack mern. E-commerce de videojuegos de variadas categorias y plataformas, donde la compra se simula con PayPal y Tarjetas de Debito/Credito.
 
