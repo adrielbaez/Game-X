@@ -1,11 +1,11 @@
 # Game-X
 
-_Aplicación web desarrollada con stack mern. E-commerce de videojuegos de variadas categorias y plataformas, donde la compra se simula con PayPal y Tarjetas de Debito/Credito._
+Aplicación web desarrollada con stack mern. E-commerce de videojuegos de variadas categorias y plataformas, donde la compra se simula con PayPal y Tarjetas de Debito/Credito.
 
-## Trabajo realizado 🚀
+## Trabajo realizado
 
-_Una web app desarrollada en dos semanas, realizando dailies y meets durante todo el sprint, con la finalidad de poder lograr los objetivos requeridos del challenge para el bootcamp cursado en MindHub.
-Para poder ver el trabajo final realizado puedes ingresar a: https://game-x-arg.herokuapp.com/_
+Una web app desarrollada en dos semanas, realizando dailies y meets durante todo el sprint, con la finalidad de poder lograr los objetivos requeridos del challenge para el bootcamp cursado en MindHub.
+Para poder ver el trabajo final realizado puedes ingresar a: https://game-x-arg.herokuapp.com/
 
 ## Construido con 🛠️
 
@@ -17,3 +17,11 @@ Para poder ver el trabajo final realizado puedes ingresar a: https://game-x-arg.
 * Jsonwebtoken
 * React - Framework utilizado
 * Redux - Utilizado para trabajar con un estado global
+
+## Autores ✒️
+
+* Adriel Baez
+* Emanuel Cuvillier
+* Matias D'alessio
+* Nicolas Espinoza
+* José Zaccaro
